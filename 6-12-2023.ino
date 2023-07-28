@@ -1,3 +1,4 @@
+// Working Rocket Scale Code
 #include <Q2HX711.h>
 
 const byte hx711_data_pin = 3;
